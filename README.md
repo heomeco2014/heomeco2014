@@ -22,6 +22,6 @@
 </p>
 <h3 align="left">Others tools:</h3>
 
-<p><img height=200  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heomeco2014&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1" alt="heomeco2014" /></p>
+<p><img height=150  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heomeco2014&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1" alt="heomeco2014" /></p>
 
-<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heomeco2014&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1" alt="heomeco2014" /></p>
+<p>&nbsp;<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=heomeco2014&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1" alt="heomeco2014" /></p>
